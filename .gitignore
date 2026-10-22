@@ -1,0 +1,15 @@
+# Secrets
+
+.env
+.env.*
+
+# Python
+
+**pycache**/
+*.py[cod]
+venv/
+.venv/
+
+# Local configuration
+
+config.local.json
